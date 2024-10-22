@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Weapon
+  - Enemy
+  - Fists
+  - Axe
+  - Pickaxe
+  - None
+  - Exp
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Wall
+  - Ledge
+  - Player
+  - Weapon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 4203077821
+    locked: 0
+  - name: Environment Tiles
+    uniqueID: 719070923
+    locked: 0
+  - name: Enemies
+    uniqueID: 1515184541
+    locked: 0
+  - name: Player
+    uniqueID: 1057371759
+    locked: 0
+  - name: OverPlayer
+    uniqueID: 356391569
+    locked: 0
